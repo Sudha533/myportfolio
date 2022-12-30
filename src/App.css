@@ -1,0 +1,45 @@
+/************ Default Css ************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
+body {
+  overflow-x: hidden;
+  position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+
+/************ Navbar Css ************/
+.navbar-logo{
+    color: #fff;
+    font-family: Arvo;
+    font-weight: bold;
+    text-shadow: -3px -3px 0 #c273af, 3px -3px 0 #c273af, -3px 3px 0 #c273af, 3px 3px 0 #c273af, 4px 4px 0 #fff, 5px 5px 0 #fff, 6px 6px 0 #fff, 7px 7px 0 #fff;
+    line-height: 0.8em;
+    letter-spacing: 0.1em;
+    transform: scaleY(0.7);
+    -webkit-transform: scaleY(0.7);
+    -moz-transform: scaleY(0.7);
+    margin: 0;
+    font-size: 60px;
+}
+
+#home, #contact{
+  background:linear-gradient(to right, #c273af, #2a022a);
+}
+
+
+
+
+
+
+
