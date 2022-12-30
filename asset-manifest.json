@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.4e936f77.css",
+    "main.js": "/myportfolio/static/js/main.8f6b0204.js",
+    "static/media/project2.png": "/myportfolio/static/media/project2.72f56326b2188d83d600.png",
+    "static/media/project3.png": "/myportfolio/static/media/project3.0bf3ec590d786d0212ac.png",
+    "static/media/project4.png": "/myportfolio/static/media/project4.f182c137cec222ed563b.png",
+    "static/media/project1.png": "/myportfolio/static/media/project1.3fc5f36155205cc011b3.png",
+    "static/media/herov1.png": "/myportfolio/static/media/herov1.3cb3967490943b04781e.png",
+    "static/media/contact.png": "/myportfolio/static/media/contact.cd9ac0e600000cf97157.png",
+    "static/media/jquery-plain-wordmark.svg": "/myportfolio/static/media/jquery-plain-wordmark.c5a3cc51287de52214925ea0ad1f032a.svg",
+    "static/media/mysql-original-wordmark.svg": "/myportfolio/static/media/mysql-original-wordmark.5328cad7c86b4f60224af4bf548c10d0.svg",
+    "static/media/bootstrap-plain-wordmark.svg": "/myportfolio/static/media/bootstrap-plain-wordmark.79a10d32e8eecded7ac9b52ac2f03941.svg",
+    "static/media/github-original-wordmark.svg": "/myportfolio/static/media/github-original-wordmark.7b541d35b2d24716d3f1ed1f223e0f4a.svg",
+    "static/media/react-original-wordmark.svg": "/myportfolio/static/media/react-original-wordmark.6b1504dc418edf5ce4220ba390c19d7e.svg",
+    "static/media/firebase-plain-wordmark.svg": "/myportfolio/static/media/firebase-plain-wordmark.cb0c55c91131fcc3034f6794cd9d4c24.svg",
+    "static/media/tailwindcss-original-wordmark.svg": "/myportfolio/static/media/tailwindcss-original-wordmark.3493b48dcf2bcd25effb96797966bd1a.svg",
+    "static/media/nodejs-original-wordmark.svg": "/myportfolio/static/media/nodejs-original-wordmark.28e0914972b023ae3e496a27d1492f68.svg",
+    "static/media/git-original-wordmark.svg": "/myportfolio/static/media/git-original-wordmark.f1c8b1458ca77dd5c654c6bd3369b957.svg",
+    "static/media/wordpress.svg": "/myportfolio/static/media/wordpress.758879d57223f72773e692d01bbf93a5.svg",
+    "static/media/javascript-original.svg": "/myportfolio/static/media/javascript-original.6f18c446987a2a1e5abc8bf2e87666b6.svg",
+    "static/media/css3-original-wordmark.svg": "/myportfolio/static/media/css3-original-wordmark.1f2589fd17508bafa2d9b420042f5e0d.svg",
+    "static/media/html5-original-wordmark.svg": "/myportfolio/static/media/html5-original-wordmark.3fab3ce3a655349277aa7fa5948e19b6.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/nextjs-original-wordmark.svg": "/myportfolio/static/media/nextjs-original-wordmark.8c08b9cef9d90894bc6713c83074afe8.svg",
+    "static/media/npm-original-wordmark.svg": "/myportfolio/static/media/npm-original-wordmark.f50482aba45eeab17ad58b1d3ec14522.svg",
+    "main.4e936f77.css.map": "/myportfolio/static/css/main.4e936f77.css.map",
+    "main.8f6b0204.js.map": "/myportfolio/static/js/main.8f6b0204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e936f77.css",
+    "static/js/main.8f6b0204.js"
+  ]
+}
